@@ -1,1 +1,1 @@
-# odin-calculator
+# Odin-calculator
